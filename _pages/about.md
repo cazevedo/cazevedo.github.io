@@ -12,12 +12,13 @@ redirect_from:
 
 Education
 ======
-@graduation-cap PhD Student in Electrical and Computing Engineering, 2017-2021 (expected)
+@icn-graduation-cap PhD Student in Electrical and Computing Engineering, 2017-2021 (expected)
 Instituto Superior Técnico, University of Lisbon
 
-@graduation-cap Msc in Physics Engineering, 2013
+@icn-graduation-cap Msc in Physics Engineering, 2013
 University of Coimbra, Portugal
 
 Professional Experience
 ======
-@building sads
+@icn-building sads
+Click on the @icn-camera icon to take a screen shot.
