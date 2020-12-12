@@ -12,5 +12,12 @@ redirect_from:
 
 Education
 ======
-Msc in Physics Engineering, 2013
+@graduation-cap PhD Student in Electrical and Computing Engineering, 2017-2021 (expected)
+Instituto Superior Técnico, University of Lisbon
+
+@graduation-cap Msc in Physics Engineering, 2013
 University of Coimbra, Portugal
+
+Professional Experience
+======
+@building sads
