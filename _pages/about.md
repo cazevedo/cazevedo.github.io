@@ -17,21 +17,21 @@ redirect_from:
 Education
 ======
 #### <i class="fas fa-graduation-cap" aria-hidden="true"></i> PhD Student in Electrical and Computing Engineering, 2017-2021 (expected)
-: Instituto Superior Técnico, University of Lisbon, Portugal
+:   Instituto Superior Técnico, University of Lisbon, Portugal
 
 #### <i class="fas fa-graduation-cap" aria-hidden="true"></i> MSc in Physics Engineering, 2013
-: University of Coimbra, Portugal
+:   University of Coimbra, Portugal
 
 Professional Experience
 ======
 #### <i class="fas fa-building" aria-hidden="true"></i> Research Manager, PLUX Wireless Biosignals, Portugal
-: Balancing my time between the development of Plux embedded systems and project managing. This comprises mainly the management and contribution to large European consortiums addressing novel preventive methods and remote monitoring in elderly healthcare.
+:   Balancing my time between the development of Plux embedded systems and project managing. This comprises mainly the management and contribution to large European consortiums addressing novel preventive methods and remote monitoring in elderly healthcare.
 {: .text-justify}
 
 #### <i class="fas fa-building" aria-hidden="true"></i> Eletronics Engineer, PLUX Wireless Biosignals, Portugal
-: Development of embedded systems, wireless networks protocols and API’s. A common goal to all developed devices is extreme miniaturization and low-power consumption.
+:   Development of embedded systems, wireless networks protocols and API’s. A common goal to all developed devices is extreme miniaturization and low-power consumption.
 {: .text-justify}
 
-### <i class="fas fa-building" aria-hidden="true"></i> Research Assistant, NOVA School of Science and Technology, Portugal
-: Contributed to the Invisible Network project, developing a new generation of interactive products based on concepts as invisible computation, internet of things and ubiquitous computing.
+#### <i class="fas fa-building" aria-hidden="true"></i> Research Assistant, NOVA School of Science and Technology, Portugal
+:   Contributed to the Invisible Network project, developing a new generation of interactive products based on concepts as invisible computation, internet of things and ubiquitous computing.
 {: .text-justify}
