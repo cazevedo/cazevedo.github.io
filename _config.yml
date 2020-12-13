@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.pt/citations?user=AiEYHOQAAAAJ&hl=en"
-  email            : cguerraazevedo[at]tecnico.ulisboa.pt
+  email            : cguerraazevedo@tecnico.ulisboa.pt
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -219,14 +219,14 @@ defaults:
   #     share: true
   #     comments: true
   # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # - scope:
+  #     path: ""
+  #     type: publications
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # _portfolio
   # - scope:
   #     path: ""
