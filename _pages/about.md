@@ -12,16 +12,11 @@ redirect_from:
 
 Education
 ======
-:fa-graduation-cap: PhD Student in Electrical and Computing Engineering, 2017-2021 (expected)
-Instituto Superior Técnico, University of Lisbon
+##### PhD Student in Electrical and Computing Engineering, 2017-2021 (expected)
+Instituto Superior Técnico, University of Lisbon {: .notice}
 
-:mortar_board: Msc in Physics Engineering, 2013
-University of Coimbra, Portugal
+##### Msc in Physics Engineering, 2013
+University of Coimbra, Portugal {: .notice}
 
 Professional Experience
 ======
-@icn-building sads
-
-:office: sadsasd
-
-Click on the :fa-coffee: icon to take a screen shot.
