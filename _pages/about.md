@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
- I am a researcher at the Institute for Systems and Robotics (ISR/IST), LARSyS and a PhD Student at Instituto Superior Técnico, University of Lisbon under the supervision of Professor [Pedro Lima](http://users.isr.ist.utl.pt/~pal/index.html). I am particularly interested in the field of artificial intelligence applied to the development of fully autonomous robots. My current research focuses on the development of high-level planning and learning methods to tackle multi-robot coordination problems under uncertainty. I've been addressing problems that have inherently long term horizons such as multi-robot continuous surveillance, patrolling, monitoring and inspection.
+ I am a researcher at the [Institute for Systems and Robotics](https://welcome.isr.tecnico.ulisboa.pt), and a PhD Student at Instituto Superior Técnico, University of Lisbon under the supervision of Professor [Pedro Lima](http://users.isr.ist.utl.pt/~pal/index.html). I am particularly interested in the field of artificial intelligence applied to the development of fully autonomous robots. My current research focuses on the development of high-level planning and learning methods to tackle multi-robot coordination problems under uncertainty. I've been addressing problems that have inherently long term horizons such as multi-robot continuous surveillance, patrolling, monitoring and inspection.
+ {: .text-justify}
 
  Since 2017 that I have been contributing to the [SocRob](https://irsgroup.isr.tecnico.ulisboa.pt/socrob/) project as part of the [SocRob@Home](https://irsgroup.isr.tecnico.ulisboa.pt/projects/socrob-home/) team. The focus of the project is to address challenging robotic problems through the participation in scientific competitions. Currently the team is commited to service robots in domestic, healthcare and office environments. I have participated in the [RoboCup](https://www.robocup.org) 2018 and in the [ERL SciRoc](https://www.eu-robotics.net/robotics_league/index.html) Smart Cities 2019 among other minor competitions.
+ {: .text-justify}
 
 Education
 ======
@@ -24,9 +26,12 @@ Professional Experience
 ======
 ### <i class="fas fa-building" aria-hidden="true"></i> Research Manager, PLUX Wireless Biosignals, Portugal
 Balancing my time between the development of Plux embedded systems and project managing. This comprises mainly the management and contribution to H2020, AAL and Portugal2020 funded projects.
+{: .text-justify}
 
 ### <i class="fas fa-building" aria-hidden="true"></i> Eletronics Engineer, PLUX Wireless Biosignals, Portugal
 Development of embedded systems, wireless networks protocols and API’s. A common goal to all developed devices is extreme miniaturization and low-power consumption.
+{: .text-justify}
 
 ### <i class="fas fa-building" aria-hidden="true"></i> Research Assistant, NOVA School of Science and Technology, Portugal
 Contributed to the Invisible Network project, developing a new generation of interactive products based on concepts as invisible computation, internet of things and ubiquitous computing.
+{: .text-justify}
