@@ -16,7 +16,7 @@ redirect_from:
 
 Education
 ======
-<i class="fas fa-graduation-cap" aria-hidden="true"></i> PhD Student in Electrical and Computing Engineering, 2017-2021 (expected)
+<i class="fas fa-graduation-cap" aria-hidden="true"></i> PhD Student in Electrical and Computer Engineering, 2017-Present
 :   Instituto Superior Técnico, University of Lisbon, Portugal
 
 <i class="fas fa-graduation-cap" aria-hidden="true"></i> MSc in Physics Engineering, 2013
@@ -25,7 +25,7 @@ Education
 Professional Experience
 ======
 <i class="fas fa-building" aria-hidden="true"></i> Research Manager, PLUX Wireless Biosignals, Portugal
-:   Balancing my time between the development of Plux embedded systems and project managing. This comprises mainly the management and contribution to large European consortiums addressing novel preventive methods and remote monitoring in elderly healthcare.
+:   Balancing my time between the development of PLUX embedded systems and project managing. This comprises mainly the management and contribution to large European consortiums addressing novel preventive methods and remote monitoring in elderly healthcare.
 {: .text-justify}
 
 <i class="fas fa-building" aria-hidden="true"></i> Eletronics Engineer, PLUX Wireless Biosignals, Portugal
