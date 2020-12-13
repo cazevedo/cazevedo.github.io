@@ -12,11 +12,10 @@ redirect_from:
 
 Education
 ======
-> ### PhD Student in Electrical and Computing Engineering, 2017-2021 (expected)
-> Instituto Superior Técnico, University of Lisbon
-> {: .notice}
+### <i class="fas fa-graduation-cap" aria-hidden="true"></i> PhD Student in Electrical and Computing Engineering, 2017-2021 (expected)
+Instituto Superior Técnico, University of Lisbon
 
-### <i class="fas fa-graduate-cap" aria-hidden="true"></i> Msc in Physics Engineering, 2013
+### <i class="fas fa-graduation-cap" aria-hidden="true"></i> MSc in Physics Engineering, 2013
 University of Coimbra, Portugal
 
 ### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> Puzzle Icon
@@ -24,3 +23,4 @@ University of Coimbra, Portugal
 
 Professional Experience
 ======
+### <i class="fas fa-building" aria-hidden="true"></i> asdsad
