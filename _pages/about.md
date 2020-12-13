@@ -22,14 +22,11 @@ University of Coimbra, Portugal
 
 Professional Experience
 ======
-### <i class="fas fa-building" aria-hidden="true"></i> Research Manager
-PLUX Wireless Biosignals, Portugal
+### <i class="fas fa-building" aria-hidden="true"></i> Research Manager, PLUX Wireless Biosignals, Portugal
 Balancing my time between the development of Plux embedded systems and project managing. This comprises mainly the management and contribution to H2020, AAL and Portugal2020 funded projects.
 
-### <i class="fas fa-building" aria-hidden="true"></i> Eletronics Engineer
-PLUX Wireless Biosignals, Portugal
+### <i class="fas fa-building" aria-hidden="true"></i> Eletronics Engineer, PLUX Wireless Biosignals, Portugal
 Development of embedded systems, wireless networks protocols and API’s. A common goal to all developed devices is extreme miniaturization and low-power consumption.
 
-### <i class="fas fa-building" aria-hidden="true"></i> Research Assistant
-NOVA School of Science and Technology, Portugal
+### <i class="fas fa-building" aria-hidden="true"></i> Research Assistant, NOVA School of Science and Technology, Portugal
 Contributed to the Invisible Network project, developing a new generation of interactive products based on concepts as invisible computation, internet of things and ubiquitous computing.
