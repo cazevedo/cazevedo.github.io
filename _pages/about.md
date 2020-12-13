@@ -25,7 +25,7 @@ University of Coimbra, Portugal
 Professional Experience
 ======
 ### <i class="fas fa-building" aria-hidden="true"></i> Research Manager, PLUX Wireless Biosignals, Portugal
-Balancing my time between the development of Plux embedded systems and project managing. This comprises mainly the management and contribution to H2020, AAL and Portugal2020 funded projects.
+Balancing my time between the development of Plux embedded systems and project managing. This comprises mainly the management and contribution to large European consortiums addressing novel preventive methods and remote monitoring and care in elderly healthcare.
 {: .text-justify}
 
 ### <i class="fas fa-building" aria-hidden="true"></i> Eletronics Engineer, PLUX Wireless Biosignals, Portugal
