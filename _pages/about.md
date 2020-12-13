@@ -12,11 +12,11 @@ redirect_from:
 
 Education
 ======
-#### PhD Student in Electrical and Computing Engineering, 2017-2021 (expected)
+### PhD Student in Electrical and Computing Engineering, 2017-2021 (expected)
 Instituto Superior Técnico, University of Lisbon
 {: .notice}
 
-#### Msc in Physics Engineering, 2013
+### Msc in Physics Engineering, 2013
 University of Coimbra, Portugal
 {: .notice}
 
